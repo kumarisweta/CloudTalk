@@ -1,0 +1,7 @@
+{
+    "initialRoute" : "https://todomvc.com/examples/vanillajs/",
+    "resolutionX" : 1920,
+    "resolutionY" : 1080,
+    "TODO_ITEM_ONE" :  "buy some cheese",
+    "TODO_ITEM_TWO" :  "feed the cat"
+}
