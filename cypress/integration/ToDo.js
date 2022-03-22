@@ -20,7 +20,7 @@ describe ('CloudTalk Assignment', ()=>{
 
     it ('Test 1', ()=>{
        
-        let newTodoInputField = cy.get('.new-todo')
+     
         // Enter First Item
         cy.enterValue(TODO_ITEM_ONE)
         // Enter Second Item
